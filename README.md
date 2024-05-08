@@ -1,6 +1,6 @@
 <h1>Olá, Eu sou Guilherme</h1>
 
-- 💻Estudando C-Sharp
+- 💻Estudando PHP, C#, React
 - 📚Cursando Sistemas de Informação no Centro Universitário Senac
 - 📁Atualmente fazendo projetos
 
