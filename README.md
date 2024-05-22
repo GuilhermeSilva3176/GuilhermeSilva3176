@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  Feito com ❤️ por <a href="https://github.com/GuilhermeSilva3176">Guilherme Silva</a>
+  Feito por <a href="https://github.com/GuilhermeSilva3176">Guilherme Silva</a>
 </p>
