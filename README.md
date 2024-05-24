@@ -38,10 +38,6 @@
 
 - Email: guilhermecunha3176@gmail.com
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuilhermeSilva3176&color=blue" alt="Profile Views">
-</p>
-
 ---
 
 <p align="center">
